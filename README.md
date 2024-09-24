@@ -71,7 +71,8 @@
 
 ## Package Managers:
 <div align="center">
-  
+
+  ![npm](https://img.shields.io/badge/npm-%234D4D4D.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
   ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
